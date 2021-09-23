@@ -5,9 +5,19 @@
     <description>java, spring, javascript, react, cloud 등등 요즘 개발을 하려고 발버둥치는 이야기</description>
     <link>http://hellices.github.io/</link>
     <atom:link href="http://hellices.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Sep 2021 16:50:22 +0900</pubDate>
-    <lastBuildDate>Thu, 23 Sep 2021 16:50:22 +0900</lastBuildDate>
+    <pubDate>Thu, 23 Sep 2021 16:55:26 +0900</pubDate>
+    <lastBuildDate>Thu, 23 Sep 2021 16:55:26 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator><item>
+        <title>Start Post</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;&lt;/span&gt;미루고 미루던 블로그 시작.&lt;/p&gt;
+&lt;p&gt;시작이 반이지.
+이 곳에서 azure로 수행했던 full-stack application 셋업을 기록해놓을 예정.&lt;/p&gt;
+</description><description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;&lt;/span&gt;미루고 미루던 블로그 시작.&lt;/p&gt;
+&lt;p&gt;시작이 반이지.
+이 곳에서 azure로 수행했던 full-stack application 셋업을 기록해놓을 예정.&lt;/p&gt;
+</description><pubDate>Thu, 23 Sep 2021 00:00:00 +0900</pubDate>
+        <link>http://hellices.github.io/blog/github-page-start/</link>
+        <guid isPermaLink="true">http://hellices.github.io/blog/github-page-start/</guid></item><item>
         <title>Example Post Formatting</title>
         <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;C&lt;/span&gt;urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
 
