@@ -8,5 +8,7 @@ main:
     url: /_posts/
   # - title: "Sample Collections"
   #   url: /collection-archive/
+  - title: "Privacy"
+    url: /privacy/
   - title: "Sitemap"
     url: /sitemap/
