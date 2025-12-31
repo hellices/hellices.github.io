@@ -1,66 +1,66 @@
 ---
 permalink: /privacy/
-title: "개인정보 처리방침"
-excerpt: "HoverComp Dev Inspector 확장 프로그램 개인정보 처리방침"
-last_modified_at: 2025-12-31T01:00:00-00:00
+title: "Privacy Policy"
+excerpt: "HoverComp Dev Inspector Extension Privacy Policy"
+last_modified_at: 2025-12-31T01:29:00-00:00
 toc: true
 layout: single
 ---
 
-## HoverComp Dev Inspector 개인정보 처리방침
+## HoverComp Dev Inspector Privacy Policy
 
-본 개인정보 처리방침은 HoverComp Dev Inspector 크롬 확장 프로그램(이하 "본 확장 프로그램")의 개인정보 수집 및 사용에 관한 정책을 설명합니다.
+This privacy policy describes the data collection and usage practices of the HoverComp Dev Inspector Chrome extension (hereinafter referred to as "the Extension").
 
-### 개인정보의 수집 및 이용
+### Information Collection and Use
 
-본 확장 프로그램은 **어떠한 개인정보도 수집하지 않습니다.**
+The Extension **does not collect any personal information**.
 
-### 데이터 처리 방식
+### Data Processing Methods
 
-이 확장 프로그램은 다음과 같은 방식으로 작동합니다:
+The Extension operates in the following manner:
 
-- **로컬 처리만 수행**: 모든 데이터 처리는 사용자의 브라우저 내에서만 이루어집니다.
-- **외부 전송 없음**: 확장 프로그램이 처리하는 정보는 외부 서버로 전송되지 않습니다.
-- **웹사이트 콘텐츠 접근**: 확장 프로그램은 개발자 도구 기능을 제공하기 위해 웹페이지의 텍스트, 이미지, 소리, 동영상, 하이퍼링크 등 웹사이트 콘텐츠에 접근합니다.
+- **Local Processing Only**: All data processing occurs exclusively within the user's browser.
+- **No External Transmission**: Information processed by the Extension is not transmitted to any external servers.
+- **Website Content Access**: The Extension accesses website content including text, images, audio, video, and hyperlinks to provide developer tool functionality.
 
-### 권한 사용 내역
+### Permissions Used
 
-본 확장 프로그램이 요청하는 권한은 다음과 같습니다:
+The Extension requests the following permission:
 
-#### 웹사이트 콘텐츠 (필수)
-- **목적**: 웹페이지의 HTML 구조와 스타일을 검사하고 분석하기 위함
-- **범위**: 텍스트, 이미지, 소리, 동영상, 하이퍼링크
-- **사용 방법**: 브라우저 내에서만 처리되며, 외부로 전송되지 않음
+#### Website Content (Required)
+- **Purpose**: To inspect and analyze webpage HTML structure and styles
+- **Scope**: Text, images, audio, video, hyperlinks
+- **Usage**: Processed only within the browser and not transmitted externally
 
-### 요청하지 않는 권한
+### Permissions NOT Requested
 
-본 확장 프로그램은 다음과 같은 권한을 **요청하지 않습니다**:
+The Extension **does not request** the following permissions:
 
-- ❌ 개인 식별 정보 (이름, 주소, 이메일 주소 등)
-- ❌ 건강 정보 (심박수 데이터, 의료 기록, 증상, 진단, 시술 기록 등)
-- ❌ 금융 및 결제 정보 (거래, 신용카드 번호, 신용 등급, 재무 제표, 결제 내역 등)
-- ❌ 인증 정보 (비밀번호, 사용자 인증 정보, 보안 질문, PIN 번호 등)
-- ❌ 개인적인 커뮤니케이션 (이메일, 문자 또는 채팅 메시지 등)
-- ❌ 위치 정보 (지역, IP 주소, GPS 좌표 또는 사용자 기기 주변 사물에 관한 정보 등)
-- ❌ 웹 기록 (사용자가 방문한 웹 페이지의 목록과 페이지 제목, 방문 시각 등 관련 데이터)
-- ❌ 사용자 활동 (네트워크 모니터링, 클릭수, 마우스 위치, 스크롤, 키 입력 로깅 등)
+- ❌ Personal Identification Information (name, address, email, etc.)
+- ❌ Health Information (heart rate data, medical records, symptoms, diagnoses, procedures, etc.)
+- ❌ Financial and Payment Information (transactions, credit card numbers, credit scores, financial statements, payment history, etc.)
+- ❌ Authentication Information (passwords, user credentials, security questions, PINs, etc.)
+- ❌ Personal Communications (emails, text or chat messages, etc.)
+- ❌ Location Information (region, IP address, GPS coordinates, or information about objects near the user's device, etc.)
+- ❌ Web History (list of visited web pages, page titles, visit times, and related data)
+- ❌ User Activity (network monitoring, click counts, mouse position, scrolling, keystroke logging, etc.)
 
-### 데이터 보안
+### Data Security
 
-본 확장 프로그램은:
-- 사용자 데이터를 저장하지 않습니다
-- 사용자 데이터를 제3자와 공유하지 않습니다
-- 사용자 데이터를 판매하거나 대여하지 않습니다
+The Extension:
+- Does not store user data
+- Does not share user data with third parties
+- Does not sell or rent user data
 
-### 개인정보 처리방침 변경
+### Privacy Policy Changes
 
-본 개인정보 처리방침은 법령, 정책 또는 보안 기술의 변경에 따라 내용의 추가, 삭제 및 수정이 있을 시에는 변경사항 시행 최소 7일 전부터 본 페이지를 통해 공지할 것입니다.
+If there are additions, deletions, or modifications to this privacy policy due to changes in laws, policies, or security technologies, notice will be provided through this page at least 7 days prior to the implementation of the changes.
 
-### 문의
+### Contact
 
-본 개인정보 처리방침에 대한 문의사항이 있으시면 다음 연락처로 문의해 주시기 바랍니다:
+For inquiries regarding this privacy policy, please contact:
 
-- 이메일: hellices@gmail.com
+- Email: hellices@gmail.com
 - GitHub: [https://github.com/hellices](https://github.com/hellices)
 
-**최종 수정일**: 2025년 12월 31일
+**Last Updated**: December 31, 2025
