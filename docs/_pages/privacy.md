@@ -2,7 +2,7 @@
 permalink: /privacy/
 title: "Privacy Policy"
 excerpt: "HoverComp Dev Inspector Extension Privacy Policy"
-last_modified_at: 2025-12-31T01:29:00-00:00
+last_modified_at: 2025-12-31T02:19:00-00:00
 toc: true
 layout: single
 ---
@@ -25,12 +25,25 @@ The Extension operates in the following manner:
 
 ### Permissions Used
 
-The Extension requests the following permission:
+The Extension requests the following permissions:
 
-#### Website Content (Required)
-- **Purpose**: To inspect and analyze webpage HTML structure and styles
-- **Scope**: Text, images, audio, video, hyperlinks
-- **Usage**: Processed only within the browser and not transmitted externally
+#### Host Permissions
+- **Permission**: Access to `https://*/*` and `http://*/*` (all websites)
+- **Purpose**: To inspect and analyze webpage HTML structure, styles, and components
+- **Data Access**: Text, images, audio, video, and hyperlinks on web pages
+- **Usage**: All processing occurs locally in your browser. No data is transmitted to external servers.
+
+#### activeTab
+- **Purpose**: To access the current active tab when the extension is invoked
+- **Usage**: Allows the extension to interact with the currently visible webpage
+
+#### scripting
+- **Purpose**: To inject scripts for inspection and analysis
+- **Usage**: Required to analyze DOM structure and styles in the active page
+
+#### tabs
+- **Purpose**: To interact with browser tabs
+- **Usage**: Necessary to identify and work with the current tab for inspection features
 
 ### Permissions NOT Requested
 
