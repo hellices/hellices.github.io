@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Azure Daily Update</title>
+    <link>https://caldova-kr.github.io/devguidesample/azure-daily-update/</link>
+    <description>이 피드는 https://caldova-kr.github.io/devguidesample/azure-daily-update/feed.xml 로 이전되었습니다.</description>
+    <language>ko-kr</language>
+    <item>
+      <title>[안내] Azure Daily Update 피드 주소가 바뀌었습니다</title>
+      <link>https://caldova-kr.github.io/devguidesample/azure-daily-update/</link>
+      <guid isPermaLink="false">devguidesample-azure-daily-update-feed-moved-2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 02:00:00 GMT</pubDate>
+      <description>Azure Daily Update는 계속 발행됩니다. 이 주소로는 더 이상 새 글이 올라오지 않으니 RSS 리더에서 https://caldova-kr.github.io/devguidesample/azure-daily-update/feed.xml 로 다시 구독해 주세요.</description>
+    </item>
+  </channel>
+</rss>
